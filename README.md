@@ -3,8 +3,8 @@ The Smart India Hackathon 2024 presents a problem statement for developing an AY
 
 Key Insights:
 
-The portal enhances user experience through personalized dashboards and smart forms tailored to user roles.
-Multi-factor authentication and OCR technology ensure secure and efficient document validation.
-The cloud-based infrastructure provides scalability and high availability, minimizing operational costs.
-Continuous integration practices are essential for keeping the portal updated with regulatory changes.
-The platform fosters growth in the AYUSH sector by simplifying the registration process for startups.
+1) The portal enhances user experience through personalized dashboards and smart forms tailored to user roles.
+2) Multi-factor authentication and OCR technology ensure secure and efficient document validation.
+3) The cloud-based infrastructure provides scalability and high availability, minimizing operational costs.
+4) Continuous integration practices are essential for keeping the portal updated with regulatory changes.
+5) The platform fosters growth in the AYUSH sector by simplifying the registration process for startups.
